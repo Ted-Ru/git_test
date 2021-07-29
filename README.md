@@ -1,0 +1,1 @@
+Behold! Ted's first GIT project!
